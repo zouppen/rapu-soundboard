@@ -1,7 +1,12 @@
 .list{
 	padding-left:0}
 .list li{
-	list-style-type:none}
+    list-style-type:none;
+		    
+}
+
+.list img { border: thin solid blue; } 
+
 .floated li{
 	float:left}
 audio{
@@ -10,8 +15,8 @@ audio{
 	margin-top:0}
 .soundboard li{
 	width:50%;
-	margin-bottom:20px;
-	margin-bottom:2rem}
+	margin-bottom:0;
+	margin-bottom:0;}
 .soundboard li a{
 	display:block;
 	background-repeat:no-repeat;
